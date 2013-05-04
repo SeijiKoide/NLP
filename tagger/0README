@@ -1,0 +1,17 @@
+The Common Lisp source code for version 1.2 of the Xerox
+part-of-speech tagger is available for anonymous FTP from
+parcftp.xerox.com in the file pub/tagger/tagger-1-2.tar.Z.
+
+This code has been tested in the following CL implementations:
+ . Franz Allegro Common Lisp version 4.2 on SunOS 4.x and 5.x;
+ . CMU Common Lisp version 17e on SunOS 4.x; and
+ . Macintosh Common Lisp 2.0p2.
+
+The file pub/tagger/anlp92.ps is a postscript rendering of a paper
+presented at Applied Natural Language Processing'92 that describes the
+design of the system.
+
+Enjoy.
+
+  Doug Cutting <cutting@apple.com>, and
+  Jan Pedersen <pedersen@parc.xerox.com>
